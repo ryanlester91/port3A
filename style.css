@@ -1,0 +1,55 @@
+.pianokeys {
+    background-image: url("piano-keys.jpg");
+    background-repeat: repeat;
+    position: relative;
+    /* Sizing */
+    width: 100vw;
+    height: 90vh;
+
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Text styles */
+    text-align: center;
+    
+    
+}
+
+.section{
+    /*background-color: linear-gradient(#964B00, #6E260E);*/
+    background-color: #6E260E;
+    background-repeat: repeat;
+    color: black;
+    height: 5000px;
+    width: 5000px;
+    position: absolute;
+}
+
+#sphere {
+    display: inline-block;
+    position: relative;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  margin: 0;
+  background: radial-gradient(circle at 100px 100px, #000, #fffff0);
+  z-index: 1;
+  text-align: center;
+}
+#page-name {
+    font-family: Arial, sans-serif;
+    
+}
+
+#name-badge {
+    background-color: ivory;
+    height: 100px;
+    width: 300px;
+    font-family: 'Franklin Gothic Medium';
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
