@@ -16,13 +16,9 @@
 
 .white-keys { 
    
-}/* Flexbox stuff */
+/* Flexbox stuff */
     display: flex;
-    justify-content: center;
-    align-items: center;
-
-    /* Text styles */
-    text-align: center;
+}
 
 
 
