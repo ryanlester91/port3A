@@ -1,5 +1,6 @@
 body {
   background-color: #6E260E;
+  background-repeat: repeat;
 }
 
 .piano {
@@ -42,8 +43,8 @@ body {
 
 .black-key {
   background-color: black;
-  height: 100px;
-  width: 35px;
+  height: 160px;
+  width: 38px;
   
 }
 
