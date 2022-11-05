@@ -1,3 +1,7 @@
+body {
+  background-color: #6E260E;
+}
+
 .piano {
    height: 290px;
    padding: 40px 40px 0 40px;
@@ -19,6 +23,25 @@
 /* Flexbox stuff */
     display: flex;
 }
+
+.white-key {
+  background-color: ivory;
+  height: 280px;
+  width:  60px;
+  border: 1px black solid;
+  border-radius: 0 0 5px 5px;
+  position: absolute;
+  box-sizing: border-box;
+}
+
+.black-key {
+  background-color: black;
+  height: 100px;
+  width: 35px;
+  z-index: 1;
+  position: relative;
+}
+
 
 
 
@@ -90,24 +113,4 @@
     text-align: center;
     justify-content: center;
 }
-.white-key {
-  background-color: ivory;
-  height: 280px;
-  width:  60px;
-  border: 1px black solid;
-  border-radius: 0 0 5px 5px;
-  position: absolute;
-  box-sizing: border-box;
-}
 
-.black-key {
-  background-color: black;
-  height: 100px;
-  width: 35px;
-  z-index: 1;
-  position: relative;
-}
-
-.container {
-  padding: 30px;
-}
