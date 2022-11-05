@@ -45,6 +45,7 @@ body {
   background-color: black;
   height: 160px;
   width: 38px;
+  border: 1px solid gray;
 border-radius: 0 0 5px 5px;
 box-sizing: border-box;
   
