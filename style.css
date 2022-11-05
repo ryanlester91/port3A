@@ -55,7 +55,8 @@ box-sizing: border-box;
    left: 48px;
 }
 .black-key:nth-child(2){
-   left: 117px;
+   /*left: 117px;*/
+    left: 105px;
 }
 .black-key:nth-child(3){
    left: 253px;
