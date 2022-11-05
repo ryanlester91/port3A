@@ -1,11 +1,7 @@
-.pianokeys {
-    background-image: url("piano-keys.jpg");
-    background-repeat: repeat;
-    position: relative;
-    /* Sizing */
-    width: 100vw;
-    height: 90vh;
-
+.piano {
+   height: 290px;
+   padding: 40px 40px 0 40px;
+   background-color: #6E260E;
     /* Flexbox stuff */
     display: flex;
     justify-content: center;
@@ -16,6 +12,13 @@
     
     
 }
+
+.keys {
+  
+
+}
+
+
 
 .section{
     /*background-color: linear-gradient(#964B00, #6E260E);*/
@@ -103,3 +106,4 @@
 
 .container {
   padding: 30px;
+}
