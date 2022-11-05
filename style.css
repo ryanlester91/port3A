@@ -85,3 +85,21 @@
     text-align: center;
     justify-content: center;
 }
+.white-key {
+  background-color: ivory;
+  height: 200px;
+  width:  60px;
+  border: 1px black solid;
+  position: absolute;
+}
+
+.black-key {
+  background-color: black;
+  height: 100px;
+  width: 35px;
+  z-index: 1;
+  position: relative;
+}
+
+.container {
+  padding: 30px;
