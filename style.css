@@ -69,8 +69,10 @@ box-sizing: border-box;
 .black-key:nth-child(6){
   left: 525px;
 }
-
-
+.black-key:nth-child(7){
+   left: 594px;}
+.black-key:nth-child(8){
+   left: 662px;}
 
 /*.section{
     /*background-color: linear-gradient(#964B00, #6E260E);*/
