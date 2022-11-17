@@ -143,3 +143,11 @@ box-sizing: border-box;
     justify-content: center;
 }
 
+.pedal-tan-key{
+    background-color: tan;
+  height: 400px;
+  width:  90px;
+  border: 1px black solid;
+  border-radius: 0 0 5px 5px;
+  box-sizing: border-box;
+}
