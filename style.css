@@ -142,6 +142,9 @@ box-sizing: border-box;
     text-align: center;
     justify-content: center;
 }
+.pedal-tan-keys{
+   display: flex;
+}
 
 .pedal-tan-key{
     background-color: tan;
