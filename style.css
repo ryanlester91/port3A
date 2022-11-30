@@ -56,16 +56,16 @@ box-sizing: border-box;
 }
 .black-key:nth-child(2){
    /*left: 117px;*/
-    left: 117px;
+    left: 86px;
 }
 .black-key:nth-child(3){
-   left: 227px;
+   left: 177px;
 }
 .black-key:nth-child(4){
-   left: 295px;
+   left: 225px;
 }
 .black-key:nth-child(5){
-  left: 389px;
+  left: 260px;
 }
 .black-key:nth-child(6){
   left: 525px;
