@@ -144,6 +144,7 @@ box-sizing: border-box;
 }
 .pedal-tan-keys{
    display: flex;
+   padding: 20px 0 0 20px;
 }
 
 .pedal-tan-key{
