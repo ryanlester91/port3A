@@ -68,12 +68,12 @@ box-sizing: border-box;
   left: 339px;
 }
 .black-key:nth-child(6){
-  left: 407px;
+  left: 470px;
 }
 .black-key:nth-child(7){
-   left: 470px;}
-.black-key:nth-child(8){
    left: 542px;}
+.black-key:nth-child(8){
+   left: 582px;}
 
 /*.section{
     /*background-color: linear-gradient(#964B00, #6E260E);*/
