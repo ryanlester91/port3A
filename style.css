@@ -59,13 +59,13 @@ box-sizing: border-box;
     left: 101px;
 }
 .black-key:nth-child(3){
-   left: 167px;
-}
-.black-key:nth-child(4){
    left: 225px;
 }
+.black-key:nth-child(4){
+   left: 282px;
+}
 .black-key:nth-child(5){
-  left: 282px;
+  left: 388px;
 }
 .black-key:nth-child(6){
   left: 407px;
